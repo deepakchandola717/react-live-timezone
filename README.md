@@ -1,6 +1,6 @@
 # react-live-timezone
 
-### **Live Coding Assignment: World Clock with Dynamic Timezone Widgets**
+### **World Clock with Dynamic Timezone Widgets**
 
 ---
 
@@ -9,47 +9,9 @@ Build a **World Clock application** that allows users to:
 1. Dynamically add clocks for different time zones using a dropdown.
 2. Display the current time for each selected time zone.
 3. (Optional) Add a personal avatar image to the top-right corner of the application.
-
-This exercise tests your skills in:
-- React component development.
-- Handling dynamic state and rendering.
-- Basic styling and layout using provided design guidelines.
-- (Optional) File handling and user interaction for image uploads.
-
 ---
 
-#### **Setup Instructions**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-
-2. **Install Dependencies**:
-   Make sure you have `Node.js` and `npm`/`yarn` installed. Install the dependencies:
-   ```bash
-   npm install
-   ```
-   or
-   ```bash
-   yarn install
-   ```
-
-3. **Resources**:
-   - `timezones.json`: Contains an exhaustive list of time zones with GMT offsets and details.
-   - `designs/`: Contains minimal design files and mockups.
-
-4. **Start the Development Server**:
-   ```bash
-   npm start
-   ```
-   or
-   ```bash
-   yarn start
-   ```
-
-5. **Expected Functionality**:
+#### **Expected Functionality**:
    - **Dynamic Clock Widgets**:
      - Dropdown to select a time zone.
      - Add clocks dynamically for selected time zones.
@@ -136,7 +98,6 @@ This exercise tests your skills in:
 
 3. **Design Implementation**:
    - Adherence to the provided mockups.
-   - Responsive design.
 
 4. **Bonus Features** (Optional):
    - Data persistence.
